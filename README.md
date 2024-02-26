@@ -1,0 +1,1 @@
+Çalışanın maaşını hesaplayan uygulama
