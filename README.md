@@ -1,1 +1,1 @@
-Çalışanın maaşını hesaplayan uygulama
+Application that calculates employee salary
